@@ -9,7 +9,8 @@
 /coverage
 
 # production
-/build
+# /build
+# Setting this one in GIT REPO for demo
 
 # misc
 .DS_Store
