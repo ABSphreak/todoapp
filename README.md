@@ -1,6 +1,14 @@
-# TodoApp using React
+# 📝TodoApp using React
 
-In the project directory, you can run:
+This App was created using React JS <br>
+Check out the demo here [https://absphreak.github.io/todoapp](https://absphreak.github.io/todoapp)
+
+### Branches
+
+- Master → Actual React Code
+- gh-pages → Deployment to the gh-pages
+
+<!-- In the project directory, you can run:
 
 ### `npm start`
 
@@ -63,4 +71,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 ### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify -->
