@@ -5,7 +5,7 @@ Check out the demo here [https://absphreak.github.io/todoapp](https://absphreak.
 
 ### Branches
 
-- `Master` → Actual React Code
+- `Master` → Actual React Code ⚛️ 
 - `gh-pages` → Deployment to the gh-pages
 
 <!-- In the project directory, you can run:
